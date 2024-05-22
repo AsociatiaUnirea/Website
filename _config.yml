@@ -6,6 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
 permalink: /:title/
+baseurl: 
 url: "https://unirea.se/"
 email: unireagoteborg@gmail.com
 
