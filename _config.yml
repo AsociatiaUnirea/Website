@@ -6,7 +6,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
 permalink: /:title/
-baseurl: 
 url: https://asociatiaunirea.github.io/Website/
 email: unireagoteborg@gmail.com
 
@@ -17,8 +16,8 @@ authors:
     display_name: Roxana Layrisse
     position: Președinte
     avatar: 'assets/images/roxana_layrisse.jpg'
-    facebook: https://twitter.com/wowthemesnet
-    email: https://www.facebook.com/roxana.layrisse
+    facebook: https://www.facebook.com/roxana.layrisse
+    email: unireagoteborg@gmail.com
     description: ""
   dan_toropu:
     name: Dan Toropu
