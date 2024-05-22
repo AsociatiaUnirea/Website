@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
 permalink: /:title/
-baseurl: /PROJECT
-url: https://unirea.se/
+baseurl: 
+url: https://asociatiaunirea.github.io/Website/
 email: unireagoteborg@gmail.com
 
 # Authors
