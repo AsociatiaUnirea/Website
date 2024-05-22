@@ -1,0 +1,19 @@
+---
+layout: default
+title: Arhivă
+---
+
+<!-- Begin List Posts
+================================================== -->
+
+<h1>Archivă de articole cu <span>{{ page.type }} '{{ page.title }}'</span></h1>
+
+<div class="blog-grid-container">
+
+{% for post in page.posts %}
+
+{% include postbox.html %}
+
+{% endfor %}
+
+</div>
