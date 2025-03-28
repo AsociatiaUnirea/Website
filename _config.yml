@@ -18,15 +18,15 @@ authors:
     avatar: 'assets/images/roxana_layrisse.png'
     facebook: https://www.facebook.com/roxana.layrisse
     email: unireagoteborg@gmail.com
-    description: "De 37 de ani Suedia m-a îmbrățișat, dar inima mea bate neîncetat pentru valorile și tradițiile românești care mă definesc. Asociația Unirea ține românii mei, dragi, uniți. Este locul unde legăm prietenii și unde dăm dovadă că suntem o minoritate unită, aici, în Suedia."
-  dan_toropu:
-    name: Dan Toropu
-    display_name: Dan Toropu
+    description: "De 38 de ani Suedia m-a îmbrățișat, dar inima mea bate neîncetat pentru valorile și tradițiile românești care mă definesc. Asociația Unirea ține românii mei, dragi, uniți. Este locul unde legăm prietenii și unde dăm dovadă că suntem o minoritate unită, aici, în Suedia."
+  dragos_frincu:
+    name: Dragoș Frîncu
+    display_name: Dragoș Frîncu
     position: Vicepreședinte
-    avatar: 'assets/images/dan_toropu.jpeg'
-    facebook: https://www.facebook.com/dan.toropu.9
+    avatar: 'assets/images/dragos_frincu.jpeg'
+    facebook: https://www.facebook.com/dragos.florinfrincu
     email: unireagoteborg@gmail.com
-    description: "De 8 ani de zile respir zilnic aer nordic. Iubesc sportul, matematica şi plimbările în natură. Asociația Unirea este un fenomen, este o punte între români. Gândim şi simțim româneşte. Mă implic activ în asociație deoarece cred în puterea grupului şi mă bucură faptul că reuşim să unim atât de mulții români frumoşi."
+    description: "Locuiesc în Göteborg de 8 ani — iubesc România, dansul românesc și tradițiile noastre. Mă bucur să pun muzică pentru românii din Suedia și să aduc un strop din cultura noastră aici."
   andreea_pesevski:
     name: Andreea Raluca Pesevski
     display_name: Andreea Raluca Pesevski
@@ -34,40 +34,71 @@ authors:
     avatar: 'assets/images/andreea_pesevski.png'
     facebook: https://www.facebook.com/andreea.pesevski
     email: unireagoteborg@gmail.com
-    description: "În cei 12 ani petrecuți în Göteborg, după alți 10 în SUA, nu am încetat să caut românii, să vorbesc românește și să păstrez tradițiile noastre. Asociația Unirea este pentru mine balsamul ce-mi alină dorul de România și de oamenii ei frumoși."
+    description: "În cei 13 ani petrecuți în Göteborg, după alți 10 în SUA, nu am încetat să caut românii, să vorbesc românește și să păstrez tradițiile noastre. Asociația Unirea este pentru mine balsamul ce-mi alină dorul de România și de oamenii ei frumoși."
+  ciprian_rosu:
+    name: Ciprian Roșu
+    display_name: Ciprian Roșu
+    position: Secretar 1
+    #avatar: 'assets/images/cristina_oproiujpeg.'
+    #facebook: https://www.facebook.com/tamasgabriellla
+    email: unireagoteborg@gmail.com
+    #description: "Călătoria mea în Suedia începe în 2018, când am rămas impresionată de harta stației centrale din Stockholm și am zis: „eu aici vreau să trăiesc”. Mă mândresc că sunt româncă și încerc, în fiecare loc unde merg, să îi învăț pe oameni că România este frumoasă, iar noi, românii, suntem oameni inimoși și frumoși."
+  iulian_serghei:
+    name: Iulian Serghei
+    display_name: Iulian Serghei
+    position: Secretar 2
+    #avatar: 'assets/images/cristina_oproiujpeg.'
+    #facebook: https://www.facebook.com/tamasgabriellla
+    email: unireagoteborg@gmail.com
+    #description: "Călătoria mea în Suedia începe în 2018, când am rămas impresionată de harta stației centrale din Stockholm și am zis: „eu aici vreau să trăiesc”. Mă mândresc că sunt româncă și încerc, în fiecare loc unde merg, să îi învăț pe oameni că România este frumoasă, iar noi, românii, suntem oameni inimoși și frumoși."
   cristina_oproiu:
     name: Cristina Oproiu
     display_name: Cristina Oproiu
-    position: Secretar
+    position: Secretar 3
     avatar: 'assets/images/cristina_oproiu.jpeg'
     facebook: https://www.facebook.com/tamasgabriellla
     email: unireagoteborg@gmail.com
     description: "Călătoria mea în Suedia începe în 2018, când am rămas impresionată de harta stației centrale din Stockholm și am zis: „eu aici vreau să trăiesc”. Mă mândresc că sunt româncă și încerc, în fiecare loc unde merg, să îi învăț pe oameni că România este frumoasă, iar noi, românii, suntem oameni inimoși și frumoși."
-  ionela_merlusca:
-    name: Ionela Merlușcă
-    display_name: Ionela Merlușcă
-    position: Secretar
-    avatar: 'assets/images/ionela_merlusca.jpeg'
-    facebook: https://www.facebook.com/ionela.merlusca.5
+  mihaela_catana:
+    name: Mihaela Catană
+    display_name: Mihaela Catană
+    position: Secretar 4
+    avatar: 'assets/images/mihaela_catana.jpg'
+    #facebook: https://www.facebook.com/ionela.merlusca.5
     email: unireagoteborg@gmail.com
-    description: "Iubesc România și, deși sunt plecată de acasă de la vârsta de 20 de ani, nu mi-am uitat rădăcinile. Implicarea mea activă în Asociația Unirea, reflectă dragostea mea pentru oameni, pentru români și dorința de a contribui la păstrarea și promovarea tradițiilor noastre frumoase. Sunt mândra să fac parte din această echipă minunată!"
-  andreea_luca:
-    name: Andreea Luca
-    display_name: Andreea Luca
-    position: Adjunct
-    avatar: 'assets/images/andreea_luca.png'
-    facebook: https://www.facebook.com/andreea.luca.104
+    description: "De peste 11 ani, Suedia a devenit a doua mea casă, un loc unde am evoluat pe toate planurile. Totuși, inima mea bate în continuare pentru România. Cred cu tărie în puterea comunității și în legăturile care ne unesc, indiferent de distanță. M-am alăturat asociației pentru că știu că împreună putem face lucruri minunate pentru românii din Suedia. Fiecare proiect, fiecare inițiativă ne apropie și ne dă forța de a păstra viu spiritul românesc."
+  andreea_micle:
+    name: Andreea Micle
+    display_name: Andreea Micle
+    position: Supleant 1
+    avatar: 'assets/images/andreea_micle.png'
+    #facebook: https://www.facebook.com/andreea.luca.104
     email: unireagoteborg@gmail.com
-    description: ""
-  dragos_frincu:
-    name: Dragoș Frîncu
-    display_name: Dragoș Frîncu
-    position: Adjunct
-    avatar: 'assets/images/dragos_frincu.jpeg'
-    facebook: https://www.facebook.com/dragos.florinfrincu
+    description: "Călătoria mea în Suedia a început în 2011. Deși viața m-a purtat departe de casă, România rămâne mereu în sufletul meu. Oriunde mă aflu, port cu mândrie tradițiile, cultura și valorile care m-au format. Cred în puterea comunității și în frumusețea de a ne susține unii pe alții, indiferent de distanță."
+  irina_sherwany:
+    name: Irina Sherwany 
+    display_name: Irina Sherwany
+    position: Supleant 2
+    avatar: 'assets/images/rina_sherwany.png'
+    #facebook: https://www.facebook.com/andreea.luca.104
     email: unireagoteborg@gmail.com
-    description: "Locuiesc în Göteborg de 7 ani — iubesc România, dansul românesc și tradițiile noastre. Mă bucur să pun muzică pentru românii din Suedia și să aduc un strop din cultura noastră aici."
-
+    description: "Cu toate ca sunt plecată de aproape 38 de ani din România la o vârstă fragedă nu am uitat niciodată de rădăcini mele. Iubesc România și tot ce are de a face cu această țară minunată. România noastră pe care încercăm să o promovăm să o iubim și să o susținem chiar dacă ne aflăm pe alte meleaguri."
+  delia_gherman:
+    name: Delia Gherman 
+    display_name: Delia Gherman
+    position: Supleant 3
+    #avatar: 'assets/images/rina_sherwany.png'
+    #facebook: https://www.facebook.com/andreea.luca.104
+    email: unireagoteborg@gmail.com
+    #description: ""
+  ion_drumea:
+    name: Ion Drumea
+    display_name: Ion Drumea
+    position: Supleant 4
+    #avatar: 'assets/images/rina_sherwany.png'
+    #facebook: https://www.facebook.com/andreea.luca.104
+    email: unireagoteborg@gmail.com
+    #description: ""
 # Plugins
 plugins:
   - jekyll-paginate
