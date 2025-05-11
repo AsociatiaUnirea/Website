@@ -50,7 +50,7 @@ authors:
     avatar: 'assets/images/iulian_serghei.jpg.'
     facebook: https://www.facebook.com/serghei.i.dumitru
     email: unireagoteborg@gmail.com
-    description: "De 14 ani, trăiesc în Suedia, însă legătura mea profundă cu România și valorile sale culturale rămâne neschimbată. Sunt ferm convins că o comunitate unită de români în diaspora poate oferi sprijin esențial în procesul de integrare, poate păstra vie identitatea noastră națională și poate promova tradițiile care ne definesc. Prin implicarea activă în Asociația Unirea, îmi dedic timpul și energia pentru a consolida aceste legături, creând un mediu în care românii din Suedia să se simtă acasă, să-și păstreze valorile și să transmită generațiilor viitoare bogăția patrimoniului nostru cultural. Împreună, putem construi o comunitate puternică și solidară, care să reflecte adevărata esență a spiritului românesc."
+    description: "De 14 ani trăiesc în Suedia, dar legătura mea cu România și valorile sale culturale rămâne puternică. Cred într-o comunitate unită care sprijină integrarea, păstrează identitatea românească și promovează tradițiile noastre. Prin Asociația Unirea, mă implic activ pentru ca românii din Suedia să se simtă acasă și să ducă mai departe patrimoniul cultural. Împreună construim o comunitate solidă, demnă de spiritul românesc."
   cristina_oproiu:
     name: Cristina Oproiu
     display_name: Cristina Oproiu
@@ -95,10 +95,11 @@ authors:
     name: Ion Drumea
     display_name: Ion Drumea
     position: Supleant 4
-    #avatar: 'assets/images/rina_sherwany.png'
-    #facebook: https://www.facebook.com/andreea.luca.104
+    avatar: 'assets/images/ion_drumea.png'
+    facebook: https://www.facebook.com/drumeaionnicolae
     email: unireagoteborg@gmail.com
-    #description: ""
+    description: "Am ajuns în Suedia în 2014, în orașul Göteborg. Sunt o persoană sociabilă, corectă și luptătoare pentru dreptate. Sunt aici datorită încrederii colegilor mei minunați din Asociația „Unirea”. Mă bucur că proiectele și activitățile tradiționale și culturale apropie tot mai mulți români unii de alții. Sunt mândru că sunt român!"
+
 # Plugins
 plugins:
   - jekyll-paginate
